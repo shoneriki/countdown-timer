@@ -5,6 +5,10 @@
 }
 
 body {
+  background-image: url("./snow-mtn.jpg");
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center center;
   font-family: "Poppins", sans-serif;
   margin:0;
 }
